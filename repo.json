@@ -1,0 +1,12 @@
+{
+    "repos": [
+        {
+            "name": "cus-analytics-backend",
+            "url": "http://git.senior.com.br/software-sob-medida/cus-analytics-backend.git"
+        },
+        {
+            "name": "olfar-gestao-projetos-frontend",
+            "url": "http://git.senior.com.br/software-sob-medida/olfar-gestao-projetos-frontend.git"
+        }
+    ]
+}
